@@ -1,0 +1,1 @@
+{"response_code":0,"results":[{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Whose signature guitar technique is called the &quot;windmill&quot;?","correct_answer":"Pete Townshend","incorrect_answers":["Jimmy Page","Eddie Van Halen","Jimi Hendrix"]}]}
